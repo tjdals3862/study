@@ -80,8 +80,8 @@
 
 - `C:\Program Files (x86)\Jenkins\secrets`에서 `initialAdminPassword`에서 비밀번호를 읽어 입력
 
-https://github.com/tjdals3862/study/blob/d737f1db2dcc857eff893d4fd989fcafed4791c7/img/99DB403C5C5CDC6709.png
-  ![image-20200311160334870](Jenkins(Windows)./assets/image-20200311160334870.png)
+
+  ![image-20200311160334870](https://github.com/tjdals3862/study/blob/d737f1db2dcc857eff893d4fd989fcafed4791c7/img/99DB403C5C5CDC6709.png)
 
 ### 2.3 설치 진행
 
