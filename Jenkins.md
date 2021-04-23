@@ -76,11 +76,11 @@
 
 - 관리자 암호를 입력하라는 페이지가 나오면
 
-  ![img](Jenkins(Windows).assets/99DB403C5C5CDC6709.png)
+  ![img](Jenkins(Windows)./assets/99DB403C5C5CDC6709.png)
 
 - `C:\Program Files (x86)\Jenkins\secrets`에서 `initialAdminPassword`에서 비밀번호를 읽어 입력
 
-  ![image-20200311160334870](Jenkins(Windows)assets/image-20200311160334870.png)
+  ![image-20200311160334870](Jenkins(Windows)./assets/image-20200311160334870.png)
 
 ### 2.3 설치 진행
 
