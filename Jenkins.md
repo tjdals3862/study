@@ -76,12 +76,12 @@
 
 - 관리자 암호를 입력하라는 페이지가 나오면
 
-  ![img](Jenkins(Windows)./assets/99DB403C5C5CDC6709.png)
+  ![img](https://github.com/tjdals3862/study/blob/d737f1db2dcc857eff893d4fd989fcafed4791c7/img/99DB403C5C5CDC6709.png)
 
 - `C:\Program Files (x86)\Jenkins\secrets`에서 `initialAdminPassword`에서 비밀번호를 읽어 입력
 
 
-  ![image-20200311160334870](https://github.com/tjdals3862/study/blob/d737f1db2dcc857eff893d4fd989fcafed4791c7/img/99DB403C5C5CDC6709.png)
+  ![image-20200311160334870](https://github.com/tjdals3862/study/blob/117b02520502fdab99c4bdc76cbd4cc9be0d301f/img/image-20200311160334870.png)
 
 ### 2.3 설치 진행
 
