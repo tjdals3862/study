@@ -4,7 +4,7 @@
 
 
 
-![image-20221225175559773](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225175559773.png)
+![image-20221225175559773](C:\Users\박성민\Desktop\git\study\img\image-20221225175559773.png)
 
 - Master - 운영 관리 브랜치
 - Develop - 개발 관리 브랜치. 기능 개발에 집중된 작업 개념의 브랜치로 볼 수 있다.
@@ -20,7 +20,7 @@
 git branch -v
 ```
 
-![image-20221225173740999](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225173740999.png)
+![image-20221225173740999](C:\Users\박성민\Desktop\git\study\img\image-20221225173740999.png)
 
 - 체크박스 부분이 현재 사용중인 branch
 
@@ -38,7 +38,7 @@ feature/개인이름/
 
 
 
-![image-20221225174620434](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225174620434.png)
+![image-20221225174620434](C:\Users\박성민\Desktop\git\study\img\image-20221225174620434.png)
 
 
 
@@ -50,7 +50,7 @@ git flow feature start [branch name]
 - 브랜치 이름은 보통 작업 내용으로 작성
 ```
 
-![image-20221225174841744](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225174841744.png)
+![image-20221225174841744](C:\Users\박성민\Desktop\git\study\img\image-20221225174841744.png)
 
 
 
@@ -77,19 +77,19 @@ git push origin develop
 
 
 
-![image-20221225175330971](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225175330971.png)
+![image-20221225175330971](C:\Users\박성민\Desktop\git\study\img\image-20221225175330971.png)
 
 
 
-![image-20221225175352356](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225175352356.png)
+![image-20221225175352356](C:\Users\박성민\Desktop\git\study\img\image-20221225175352356.png)
 
 
 
-![image-20221225175424460](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225175424460.png)
+![image-20221225175424460](C:\Users\박성민\Desktop\git\study\img\image-20221225175424460.png)
 
 
 
-![image-20221225175435232](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225175435232.png)
+![image-20221225175435232](C:\Users\박성민\Desktop\git\study\img\image-20221225175435232.png)
 
 
 
@@ -107,21 +107,21 @@ git flow feature publish [branch name]
 
 
 
-![image-20221225181845896](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225181845896.png)
+![image-20221225181845896](C:\Users\박성민\Desktop\git\study\img\image-20221225181845896.png)
 
 
 
-![image-20221225181859170](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225181859170.png)
+![image-20221225181859170](C:\Users\박성민\Desktop\git\study\img\image-20221225181859170.png)
 
 
 
 - 생성한 feature branch 확인
 
-![image-20221225181318720](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225181318720.png)
+![image-20221225181318720](C:\Users\박성민\Desktop\git\study\img\image-20221225181318720.png)
 
 - develop로 merge 진행
 
-![image-20221225182406571](C:\Users\박성민\AppData\Roaming\Typora\typora-user-images\image-20221225182406571.png)
+![image-20221225182406571](C:\Users\박성민\Desktop\git\study\img\image-20221225182406571.png)
 
 
 
